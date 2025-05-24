@@ -17,9 +17,6 @@
 - 💼 [LinkedIn](https://linkedin.com/in/christopher-li-zhou)
 - 📧 chriszhou318@gmail.com
 
----
-
-⭐️ Fun Fact: 
 
 <!---
 chriszhou337/chriszhou337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
