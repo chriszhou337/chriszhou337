@@ -1,10 +1,25 @@
-- 👋 Hi, I’m Chris
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Chris Zhou
+
+🎓 Junior at the University of Texas at Austin  
+📚 Electrical and Computer Engineering – Software Engineering & Design Track  
+💻 Aspiring Full-Stack Software Engineer | Passionate about scalable systems, clean code, and impactful tech
+
+
+## 💼 About Me
+
+- 👨‍💻 
+- 🚀 
+- 🧠
+
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://linkedin.com/in/christopher-li-zhou)
+- 📧 chriszhou318@gmail.com
+
+---
+
+⭐️ Fun Fact: 
 
 <!---
 chriszhou337/chriszhou337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
