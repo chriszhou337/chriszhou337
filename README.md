@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chris Zhou
 
-🎓 Junior at the University of Texas at Austin  
+🎓 University of Texas at Austin  
 📚 Electrical and Computer Engineering     
 💻 Aspiring Software Engineer
 
