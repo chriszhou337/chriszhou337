@@ -2,7 +2,7 @@
 
 🎓 Junior at the University of Texas at Austin  
 📚 Electrical and Computer Engineering     
-💻 Aspiring Software Engineer | Passionate about scalable systems, clean code, and impactful tech
+💻 Aspiring Software Engineer
 
 <!---
 ## 💼 About Me
